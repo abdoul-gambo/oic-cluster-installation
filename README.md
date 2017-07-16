@@ -1,1 +1,1 @@
-# oic-cluster-installation
+# Cluster-installation
