@@ -1,6 +1,6 @@
 ### Cluster-installation
 
-This post show the HDP cluster installation.
+This post show the HDP cluster installation. The installation is made from external host: `instance-1_`
 
 
 > Install prerequisite
