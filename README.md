@@ -45,4 +45,4 @@ nano platforms/hdp/ambari.conf
 
 > Go to http://hadoop-m:8080
 
-![ambari.conf head](https://github.com/agambov/oic-cluster-installation/blob/master/ambari2.png)
+![ambari.conf head](https://github.com/agambov/oic-cluster-installation/img/blob/master/ambari2.png)
